@@ -268,13 +268,13 @@
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <230>;
-            bindings = <&kp I>, <&enter_insert_jp_mac>;
+            bindings = <&kp I>, <&kp LANG1>;
         };
         td_i_insert_win: td_i_insert_win {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             tapping-term-ms = <230>;
-            bindings = <&kp I>, <&enter_insert_jp_win>;
+            bindings = <&kp I>, <&kp LANG1>;
         };
         td_lang1_at: td_lang1_at {
             compatible = "zmk,behavior-tap-dance";
