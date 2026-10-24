@@ -374,7 +374,7 @@
                 &none                &none                &none                &none                &none                                              &none                &none  ASSYM(S_EQL, JP_MINS)   ASSYM(S_TILDE, JP_CIRC)  ASSYM(S_PIPE, JP_YEN_MAC)
                 &none                &none                &none                &none                &none          &none                &none          &none                &none  &none                   ASSYM(S_BQ, JP_AT)       ASSYM(S_LCBR, JP_LBKT)
                 &kp LEFT_SHIFT       &none                &none                &none                &none          &kp LANG2            &kp LANG1      &none                &none  ASSYM(S_PLUS, JP_SCLN)  ASSYM(S_ASTR, JP_COLN)   ASSYM(S_RCBR, JP_RBKT)
-                &kp LEFT_CONTROL     &kp LEFT_ALT         &kp LEFT_GUI         &none                &none          &none                &none          &none                                                                        &none
+                &kp LEFT_CONTROL     &kp LEFT_ALT         &kp LEFT_GUI         &kp ESCAPE           &none          &none                &none          &kp ENTER                                                                    &none
         >;
         };
         LAYER_MOUSE {
